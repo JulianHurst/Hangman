@@ -1,4 +1,4 @@
-UDP version of Hangman
+UDP version of Hangman  
 To compile in Linux type : make
 
 To start client :  
@@ -9,7 +9,7 @@ java PenduServerUdp word
 
 ---
 
-Version UDP à une seul connection.
+Version UDP à une seul connection.  
 Pour compiler, sous linux taper make
 
 Pour lancer le client :  
