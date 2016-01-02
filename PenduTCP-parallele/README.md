@@ -1,7 +1,7 @@
 TCP with sessions version of Hangman  
   
 * To execute server : java -jar Hangman.jar port word  
-* To execute client : java -jar Hangman-cli.jar hostname port  
+* To execute client : java -jar Hangman-cli.jar host port  
 
 ---
   
